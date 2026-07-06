@@ -1,0 +1,19 @@
+{
+  "name": "carla-mcp",
+  "version": "0.1.0",
+  "description": "Skills to build CARLA (UE4.26) from source, drive the CarlaUE4 editor headlessly via Python, and author new drivable vehicles end-to-end. Bundles an MCP server that exposes the skill registry.",
+  "author": {
+    "name": "German Ros",
+    "email": "germanros1987@gmail.com"
+  },
+  "keywords": [
+    "carla",
+    "unreal-engine",
+    "ue4",
+    "autonomous-driving",
+    "simulation",
+    "vehicle-authoring"
+  ],
+  "homepage": "https://github.com/carla-simulator/carla",
+  "mcpServers": "./.mcp.json"
+}

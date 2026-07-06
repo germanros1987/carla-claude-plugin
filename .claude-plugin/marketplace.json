@@ -1,0 +1,19 @@
+{
+  "name": "carla",
+  "owner": {
+    "name": "German Ros",
+    "email": "germanros1987@gmail.com"
+  },
+  "metadata": {
+    "description": "CARLA authoring & build skills for Claude Code.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "carla-mcp",
+      "source": "./",
+      "description": "Build CARLA (UE4.26) from source, drive the CarlaUE4 editor headlessly via Python, and author new drivable vehicles. Includes an MCP server exposing the skill registry.",
+      "version": "0.1.0"
+    }
+  ]
+}

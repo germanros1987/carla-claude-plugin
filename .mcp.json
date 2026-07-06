@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "carla": {
+      "command": "python3",
+      "args": ["-m", "carla_mcp.server"],
+      "env": {
+        "PYTHONPATH": "${CLAUDE_PLUGIN_ROOT}/src"
+      }
+    }
+  }
+}
