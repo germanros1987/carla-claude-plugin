@@ -19,7 +19,7 @@ The marketplace is this repo; install with two commands.
 **From GitHub:**
 
 ```bash
-claude plugin marketplace add <owner>/carla-claude-plugin
+claude plugin marketplace add germanros1987/carla-claude-plugin
 claude plugin install carla-mcp@carla
 ```
 
